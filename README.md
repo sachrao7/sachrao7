@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sachith Rao</h1>
 <h3 align="center">Creative, detail-oriented, software engineer with a deep interest in AI over 6 years of work experience. Proven track record of creating and implementing successful front and back end web and data applications and leading technical teams . Looking to bring my skills to a tech company with global reach.</h3>
 
+- 🔭 I’m currently working on [Hair Salon Page Layout](https://stellarhairsalon.netlify.app/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sachith-rao-02047469/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sachith-rao-02047469/" height="30" width="40" /></a>
