@@ -35,7 +35,7 @@
   </a>
       </p>
         <p align="center"><strong>HTML, CSS & Javascript</strong></p><p>User-friendly platform that revolutionizes the way we deal with Accounting. As a freelance developer, I had the privilege of building this user-friendly website for a Portuguese digital platform that will make the accounting workload a breeze, allowing the clients to focus on what really matters - growing their business. </p>
-
+  
     
   </tr>
   <tr>
