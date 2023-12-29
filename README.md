@@ -22,7 +22,7 @@
       <h3 align="center">Anime DB Checker</h3>
         <br />
         <a target="_blank" href="https://www.animechecker.netlify.app">
-            <img src="https://github.com/sachrao7/sachrao7/blob/main/images/anime.png" width="100%" height="260px" alt="Digital Accounting"/>
+            <img src="https://github.com/sachrao7/sachrao7/blob/main/images/anime.png" width="50%" height="260px" style="vertical-align:middle;margin-left:50%;padding-left: 50%" alt="Digital Accounting"/>
         </a>
         <br />
         <p align="center">
@@ -35,85 +35,30 @@
   </a>
       </p>
         <p align="center"><strong>HTML, CSS & Javascript</strong></p><p>User-friendly platform that revolutionizes the way we deal with Accounting. As a freelance developer, I had the privilege of building this user-friendly website for a Portuguese digital platform that will make the accounting workload a breeze, allowing the clients to focus on what really matters - growing their business. </p>
+  </td>
   
-    
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Paws & Plates</h3>
+  
+  <td width="50%" valign="top">
+      <h3 align="center">Cocktail Finder</h3>
         <br />
-        <a target="_blank" href="https://mikezpo.github.io/paws-and-plates/">
-            <img src="https://github.com/Mikezpo/jose-oliveira/blob/main/images/pawsAndPlates.png?raw=true" width="100%" height="260px" alt="Paws & Plates"/>
+        <a target="_blank" href="https://www.drinkacocktail.netlify.app">
+            <img src="https://github.com/sachrao7/sachrao7/blob/main/images/cocktail.png" width="100%" height="260px" style="vertical-align:middle;margin-left:50%;padding-left: 50%" alt="Digital Accounting"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/Mikezpo/paws-and-plates" target="_blank">
+  <a href="https://github.com/Mikezpo/Raiz-Digital" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://mikezpo.github.io/paws-and-plates/" target="_blank">
+  <a href="https://www.raizdigital.net" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p align="center"><strong>HTML, CSS & Javascript</strong></p><p>Paws and Plates is an online platform helping users find pet-friendly cafes and restaurants. As a developer, I created this website for pet owners to easily locate welcoming establishments, ensuring enjoyable experiences for both pets and their owners. </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">PokeFetch - Pokemon Database</h3>
-        <br />
-        <a target="_blank" href="https://mikezpo.github.io/PokeFetch/">
-            <img src="https://github.com/Mikezpo/joseoliveiradev/blob/main/images/pokefetch.png?raw=true" width="100%" height="260px" alt="PokeFetch"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/Mikezpo/PokeFetch" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://mikezpo.github.io/PokeFetch/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>      
-        <p align="center"><strong>HTML, CSS, Javascript & API's</strong></p><p>PokeFetch is a simple and fun Web Application that allows you to explore the Pokémon universe by fetching valuable information about your favorite Pokémon.</p>
-    </td>
+        <p align="center"><strong>HTML, CSS & Javascript</strong></p><p>User-friendly platform that revolutionizes the way we deal with Accounting. As a freelance developer, I had the privilege of building this user-friendly website for a Portuguese digital platform that will make the accounting workload a breeze, allowing the clients to focus on what really matters - growing their business. </p>
+  </td>
+  
+  
+  
   </tr>
 
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Night Sky - NASA API's</h3>
-        <br />
-        <a target="_blank" href="https://mikezpo.github.io/night-sky/">
-            <img src="https://github.com/Mikezpo/joseoliveiradev/blob/main/images/night_sky.png?raw=true" width="100%" height="260px" alt="Night Sky"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/Mikezpo/night-sky" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://mikezpo.github.io/night-sky/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>      
-        <p align="center"><strong>HTML, CSS, Javascript & API's</strong></p><p>A simple yet captivating web application that taps into NASA's APIs to bring you stunning astronomy photos and intriguing Mars rover images. Explore the cosmos and the Red Planet like never before with this user-friendly platform. </p>
-    </td>
-     <td width="50%" valign="top">
-      <h3 align="center">Letra Craft Beer</h3>
-        <br />
-        <a target="_blank" href="https://mikezpo.github.io/letracraftbeer/">
-            <img src="https://github.com/Mikezpo/jose-oliveira/blob/main/images/letraCraftBeer.png?raw=true" width="100%" height="260px" alt="Letra Craft Beer"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/Mikezpo/letracraftbeer" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://mikezpo.github.io/letracraftbeer/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p align="center"><strong>HTML & CSS</strong></p><p>E-commerce website that I created with permission from the esteemed craft beer brand Letra with the intent to showcase Letra's exceptional craft beers. With Letra's support, users can explore and purchase a wide range of renowned brews, offering an immersive online shopping experience for beer enthusiasts.</p>
-    </td>
-  </tr>
-  
 </table>
