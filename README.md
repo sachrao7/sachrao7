@@ -19,10 +19,10 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Raiz Digital Acounting</h3>
+      <h3 align="center">Anime DB Checker</h3>
         <br />
-        <a target="_blank" href="https://www.raizdigital.net/">
-            <img src="https://github.com/Mikezpo/jose-oliveira/blob/main/images/raizDigitalProject.png?raw=true" width="100%" height="260px" alt="Digital Accounting"/>
+        <a target="_blank" href="https://www.animechecker.netlify.app">
+            <img src="https://github.com/sachrao7/sachrao7/blob/main/images/anime.png" width="100%" height="260px" alt="Digital Accounting"/>
         </a>
         <br />
         <p align="center">
