@@ -80,6 +80,25 @@
         <p align="center"><strong>HTML, CSS & Javascript</strong></p><p> Simple Anime checker db built for small local client to rate and look up anime/manga shows </p>
   </td>
 
+  <td width="50%" valign="top">
+    <h3 align="center">StarGazers Society APOD Web App</h3>
+      <br />
+      <a target="_blank" href="https://astronomyfacts.netlify.app">
+          <img src="https://github.com/sachrao7/sachrao7/blob/main/images/astronomy.jpg" width="100%" height="260px" style="vertical-align:middle;margin-left:50%;padding-left: 50%" alt="Digital Accounting"/>
+      </a>
+      <br />
+      <p align="center">
+          
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://astronomyfacts.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p align="center"><strong>HTML, CSS & Javascript</strong></p><p> Cosmic Reality helps young adults and those curious to learn something new about our cosmos everyday. It is a reminder of how vast our existence really is </p>
+  </td>
+
   </tr>
 
   
